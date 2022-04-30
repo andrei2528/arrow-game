@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/515/203/668/pixel-art-pixelated-forest-trees-wallpaper-preview.jpg');
+    margin: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+svg {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+span {
+    color: white;
+    font-family: sans-serif;
+    opacity: .3;
+}
